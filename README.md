@@ -52,7 +52,7 @@ The list below provides the badges and the hyperlinks for launching one of the s
   - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/BrunoComitre/academic-research/master?urlpath=tree)
 
 ## Author
-* João Vitor Bracale de Jesus [@jao_bracale](https://www.linkedin.com/in/joão-vítor-bracale-de-jesus-75a1b1187)
+* João Vitor Bracale de Jesus [@JoaoVitorBracale](https://www.linkedin.com/in/joão-vítor-bracale-de-jesus-75a1b1187)
 
 ## How to Contribute
 
