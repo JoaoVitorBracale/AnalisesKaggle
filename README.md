@@ -11,7 +11,6 @@ This repository comprises all the resources associated with a scientific investi
     - [JupyterLab](#jupyterlab)
     - [Jupyter](#jupyter)
 - [Authors](#authors)
-- [How to Contribute](#how-to-contribute)
 - [Resources](#resources)
 - [Datasets:](#datasets)
 
@@ -53,17 +52,6 @@ The list below provides the badges and the hyperlinks for launching one of the s
 
 ## Author
 * João Vitor Bracale de Jesus [@JoaoVitorBracale](https://www.linkedin.com/in/joão-vítor-bracale-de-jesus-75a1b1187)
-
-## How to Contribute
-
-There are a few things we would like to accomplish with the project. We would like to make faketect become a stable building for everyone in the community. If you are interested in making this version more robust and adding some cool features, feel free to submit a receipt request. #ShareIsCaring
-
-### Pull Request Template: 
-
-**What is this PR for?**
-
-**What type of PR is it?**
-[Bug Fix] or [Feature Request]
 
 **How should this be tested?**
 Specific steps, configs and images if available
